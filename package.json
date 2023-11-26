@@ -1,0 +1,15 @@
+{
+  "name": "finalprojectsb50",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open": "npx cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
